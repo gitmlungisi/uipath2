@@ -1,6 +1,6 @@
 {
-  "name": "gitCheck",
-  "projectId": "23fe5f77-8fdc-42b2-963a-f87b53aa5185",
+  "name": "helloworld",
+  "projectId": "949a8d4c-0739-431b-b6c0-9dfdd153d634",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "f482384f-bf8a-4bf7-af45-90fe14a646ff",
+      "uniqueId": "210d550a-b399-40b1-b1f5-3a17f4b0509f",
       "input": [],
       "output": []
     }
